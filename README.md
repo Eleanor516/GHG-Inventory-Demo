@@ -58,3 +58,6 @@ This project builds a basic Scope 1 and Scope 2 greenhouse gas (GHG) emissions i
 ## 🧠 Author Note
 
 This project was built as a learning experience and demonstration of technical capability in the field of sustainability and climate data analysis. It is intended for entry-level roles in ESG, GHG accounting, or climate consulting.
+In my GHG inventory model, I applied the operational control approach for organizational boundary, assuming the company has full control over its facilities and activities.
+I defined the operational boundary by including Scope 1 and Scope 2 emissions, and selectively modeled Scope 3 categories based on materiality and data availability—specifically, employee commuting and product use.
+
